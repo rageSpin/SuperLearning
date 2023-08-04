@@ -11,3 +11,6 @@ st.set_page_config(
         'About': "### This is SuperLearning. A small collection of Giannini Stefano's university notes."
     }
 )
+
+st.title("🎓SuperLearning📚")
+
